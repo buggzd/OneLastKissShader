@@ -7,7 +7,7 @@ Shader "Custom/OneLastKiss"
         _OutLineMax("Outline Width Max", Range(0.01, 1)) = 0.24
         _OutLineMin("Outline Width Min", Range(0.01, 1)) = 0.2
         _OutLineWeight("Outline Width Weight", Range(0.01, 1)) = 0.5
-        //描边颜色
+       
     
 
     }
